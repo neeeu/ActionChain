@@ -1,0 +1,24 @@
+{
+    "name": "io.neeeu.actionchain",
+    "version": "1.0.0",
+    "displayName": "ActionChain",
+    "description": "This package allows you to organise chains of actions with GameObjects",
+    "keywords": [
+      "action",
+      "trigger",
+      "actionchain"
+    ],
+    "author": {
+      "name": "Ingo Randolf",
+      "email": "ingo.randolf@neu.io",
+      "url": "https://neeeu.io"
+    },
+    "license": "Mozilla Public License 2.0",
+    "samples": [
+      {
+        "displayName": "ActionChainSample",
+        "description": "Shows a basic example of how to use ActionChain",
+        "path": "Samples~/ActionChainSample"
+      }
+    ]
+  }
