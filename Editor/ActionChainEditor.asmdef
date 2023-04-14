@@ -1,0 +1,16 @@
+{
+    "name": "ActionChainEditor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:36189054949634fbaaac25083b800d5c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
